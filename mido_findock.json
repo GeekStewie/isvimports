@@ -1,0 +1,32 @@
+[
+    {
+        "PackageName" : "FinDock",
+        "Namespace" : "cpm",
+        "VersionNumber": "2.82"
+    },
+    {
+        "PackageName" : "Findock | ProcessingHub",
+        "Namespace" : "proh",
+        "VersionNumber": "2.16.1"
+    },
+    {
+        "PackageName" : "FinDock for NPSP",
+        "Namespace" : "npsp4hub",
+        "VersionNumber": "1.124"
+    },
+    {
+        "PackageName" : "Findock Demo",
+        "Namespace" : "fddemo",
+        "VersionNumber": "1.16"
+    },
+    {
+        "PackageName" : "Stripe for FinDock",
+        "Namespace" : "phstr",
+        "VersionNumber": "1.14.1"
+    },
+    {
+        "PackageName" : "SEPA for FinDock",
+        "Namespace" : "paysepa",
+        "VersionNumber": "1.24"
+    }
+]
